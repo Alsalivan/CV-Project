@@ -4,4 +4,4 @@
 
 * We used original [paper.](https://www.researchgate.net/publication/321589788_Video_Stabilization_Using_Point_Feature_Matching)
 
-* We decided to use our own small (~5 videos) database of shaky videos.
+* We decided to use our own small (3 videos) database of shaky videos.
